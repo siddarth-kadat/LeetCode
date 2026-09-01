@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [3945-digit-frequency-score](https://github.com/siddarth-kadat/LeetCode/tree/master/3945-digit-frequency-score) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

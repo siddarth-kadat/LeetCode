@@ -20,6 +20,7 @@
 | ------- |
 | [1929-concatenation-of-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/siddarth-kadat/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3903-smallest-stable-index-i](https://github.com/siddarth-kadat/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [2942-find-words-containing-character](https://github.com/siddarth-kadat/LeetCode/tree/master/2942-find-words-containing-character) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/siddarth-kadat/LeetCode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->

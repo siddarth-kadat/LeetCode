@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [2942-find-words-containing-character](https://github.com/siddarth-kadat/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/3110-score-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |

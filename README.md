@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [2469-convert-the-temperature](https://github.com/siddarth-kadat/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/siddarth-kadat/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/siddarth-kadat/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/siddarth-kadat/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Hash Table

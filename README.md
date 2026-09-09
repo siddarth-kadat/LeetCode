@@ -13,6 +13,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/siddarth-kadat/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/siddarth-kadat/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/siddarth-kadat/LeetCode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/siddarth-kadat/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3945-digit-frequency-score](https://github.com/siddarth-kadat/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |

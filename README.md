@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/siddarth-kadat/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/siddarth-kadat/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/siddarth-kadat/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3731-find-missing-elements](https://github.com/siddarth-kadat/LeetCode/tree/master/3731-find-missing-elements) |
@@ -43,6 +44,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/siddarth-kadat/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/siddarth-kadat/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |

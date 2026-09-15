@@ -20,6 +20,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddarth-kadat/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1512-number-of-good-pairs](https://github.com/siddarth-kadat/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3668-restore-finishing-order](https://github.com/siddarth-kadat/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/siddarth-kadat/LeetCode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/siddarth-kadat/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Array
@@ -29,6 +30,7 @@
 | [1732-find-the-highest-altitude](https://github.com/siddarth-kadat/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/siddarth-kadat/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3668-restore-finishing-order](https://github.com/siddarth-kadat/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/siddarth-kadat/LeetCode/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/siddarth-kadat/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Simulation

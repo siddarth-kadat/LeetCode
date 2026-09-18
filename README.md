@@ -33,6 +33,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/siddarth-kadat/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/siddarth-kadat/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/siddarth-kadat/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/siddarth-kadat/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/siddarth-kadat/LeetCode/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/siddarth-kadat/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
@@ -40,6 +41,7 @@
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddarth-kadat/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3701-compute-alternating-sum](https://github.com/siddarth-kadat/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
 | ------- |

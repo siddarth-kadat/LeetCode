@@ -62,6 +62,7 @@
 | [2942-find-words-containing-character](https://github.com/siddarth-kadat/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/siddarth-kadat/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/siddarth-kadat/LeetCode/tree/master/0443-string-compression) |
+| [3794-reverse-string-prefix](https://github.com/siddarth-kadat/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |

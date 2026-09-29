@@ -8,6 +8,7 @@
 ## Math
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/siddarth-kadat/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/siddarth-kadat/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/siddarth-kadat/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -106,6 +107,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Greedy
 |  |

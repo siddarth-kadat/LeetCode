@@ -36,6 +36,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddarth-kadat/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/siddarth-kadat/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/siddarth-kadat/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/siddarth-kadat/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -109,6 +110,7 @@
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1720-decode-xored-array) |
 ## Greedy
 |  |
 | ------- |

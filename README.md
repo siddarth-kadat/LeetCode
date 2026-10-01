@@ -35,6 +35,7 @@
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddarth-kadat/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/siddarth-kadat/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/siddarth-kadat/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/siddarth-kadat/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -119,4 +120,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddarth-kadat/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/siddarth-kadat/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->

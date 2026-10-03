@@ -14,6 +14,7 @@
 | [2413-smallest-even-multiple](https://github.com/siddarth-kadat/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/siddarth-kadat/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/siddarth-kadat/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/siddarth-kadat/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3516-find-closest-person](https://github.com/siddarth-kadat/LeetCode/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/siddarth-kadat/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/siddarth-kadat/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -27,6 +28,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddarth-kadat/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/siddarth-kadat/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2965-find-missing-and-repeated-values](https://github.com/siddarth-kadat/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3668-restore-finishing-order](https://github.com/siddarth-kadat/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/siddarth-kadat/LeetCode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/siddarth-kadat/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -47,6 +49,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/siddarth-kadat/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2574-left-and-right-sum-differences](https://github.com/siddarth-kadat/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/siddarth-kadat/LeetCode/tree/master/2942-find-words-containing-character) |
+| [2965-find-missing-and-repeated-values](https://github.com/siddarth-kadat/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3668-restore-finishing-order](https://github.com/siddarth-kadat/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/siddarth-kadat/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/siddarth-kadat/LeetCode/tree/master/3731-find-missing-elements) |
@@ -133,6 +136,7 @@
 | [0074-search-a-2d-matrix](https://github.com/siddarth-kadat/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddarth-kadat/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/siddarth-kadat/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/siddarth-kadat/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |

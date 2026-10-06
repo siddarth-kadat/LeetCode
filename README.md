@@ -51,6 +51,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/siddarth-kadat/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/siddarth-kadat/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddarth-kadat/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [2974-minimum-number-game](https://github.com/siddarth-kadat/LeetCode/tree/master/2974-minimum-number-game) |
 | [3668-restore-finishing-order](https://github.com/siddarth-kadat/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/siddarth-kadat/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/siddarth-kadat/LeetCode/tree/master/3731-find-missing-elements) |
@@ -63,6 +64,7 @@
 | [1929-concatenation-of-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/siddarth-kadat/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2974-minimum-number-game](https://github.com/siddarth-kadat/LeetCode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/siddarth-kadat/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## String
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddarth-kadat/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2974-minimum-number-game](https://github.com/siddarth-kadat/LeetCode/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/siddarth-kadat/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -150,4 +153,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddarth-kadat/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/siddarth-kadat/LeetCode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->

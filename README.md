@@ -11,6 +11,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/siddarth-kadat/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/siddarth-kadat/LeetCode/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/siddarth-kadat/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/siddarth-kadat/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/siddarth-kadat/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/siddarth-kadat/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -126,6 +127,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/siddarth-kadat/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/siddarth-kadat/LeetCode/tree/master/0443-string-compression) |
+| [2396-strictly-palindromic-number](https://github.com/siddarth-kadat/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3794-reverse-string-prefix](https://github.com/siddarth-kadat/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 |  |
@@ -172,4 +174,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/siddarth-kadat/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/siddarth-kadat/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->

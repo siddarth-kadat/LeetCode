@@ -81,6 +81,7 @@
 | [0709-to-lower-case](https://github.com/siddarth-kadat/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/siddarth-kadat/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddarth-kadat/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/siddarth-kadat/LeetCode/tree/master/1816-truncate-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddarth-kadat/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddarth-kadat/LeetCode/tree/master/0020-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddarth-kadat/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddarth-kadat/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddarth-kadat/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -186,4 +189,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddarth-kadat/LeetCode/tree/master/0020-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddarth-kadat/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->

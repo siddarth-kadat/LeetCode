@@ -48,6 +48,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/siddarth-kadat/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1816-truncate-sentence](https://github.com/siddarth-kadat/LeetCode/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/siddarth-kadat/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/siddarth-kadat/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -80,6 +81,7 @@
 | [0771-jewels-and-stones](https://github.com/siddarth-kadat/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/siddarth-kadat/LeetCode/tree/master/1816-truncate-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddarth-kadat/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/siddarth-kadat/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/siddarth-kadat/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |

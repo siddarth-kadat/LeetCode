@@ -15,6 +15,7 @@
 | [2396-strictly-palindromic-number](https://github.com/siddarth-kadat/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/siddarth-kadat/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/siddarth-kadat/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/siddarth-kadat/LeetCode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/siddarth-kadat/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddarth-kadat/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/siddarth-kadat/LeetCode/tree/master/3099-harshad-number) |

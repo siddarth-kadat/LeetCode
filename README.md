@@ -63,6 +63,7 @@
 | [3668-restore-finishing-order](https://github.com/siddarth-kadat/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/siddarth-kadat/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/siddarth-kadat/LeetCode/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/siddarth-kadat/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3903-smallest-stable-index-i](https://github.com/siddarth-kadat/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
@@ -75,6 +76,7 @@
 | [2974-minimum-number-game](https://github.com/siddarth-kadat/LeetCode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/siddarth-kadat/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/siddarth-kadat/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [3110-score-of-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/siddarth-kadat/LeetCode/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/siddarth-kadat/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -43,6 +43,7 @@
 | [0015-3sum](https://github.com/siddarth-kadat/LeetCode/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/siddarth-kadat/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/siddarth-kadat/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/siddarth-kadat/LeetCode/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddarth-kadat/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/siddarth-kadat/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddarth-kadat/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -148,6 +149,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/siddarth-kadat/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/siddarth-kadat/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/siddarth-kadat/LeetCode/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -206,6 +208,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/siddarth-kadat/LeetCode/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/siddarth-kadat/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |

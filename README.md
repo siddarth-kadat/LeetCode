@@ -85,6 +85,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddarth-kadat/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/siddarth-kadat/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/siddarth-kadat/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/siddarth-kadat/LeetCode/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/siddarth-kadat/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/siddarth-kadat/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -142,6 +143,7 @@
 | [0015-3sum](https://github.com/siddarth-kadat/LeetCode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/siddarth-kadat/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/siddarth-kadat/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/siddarth-kadat/LeetCode/tree/master/0443-string-compression) |
 | [2396-strictly-palindromic-number](https://github.com/siddarth-kadat/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/siddarth-kadat/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -222,4 +224,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/siddarth-kadat/LeetCode/tree/master/0342-power-of-four) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/siddarth-kadat/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

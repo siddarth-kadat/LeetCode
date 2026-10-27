@@ -8,6 +8,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/siddarth-kadat/LeetCode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/siddarth-kadat/LeetCode/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/siddarth-kadat/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -223,6 +224,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/siddarth-kadat/LeetCode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/siddarth-kadat/LeetCode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |

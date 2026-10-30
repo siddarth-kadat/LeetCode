@@ -10,6 +10,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/siddarth-kadat/LeetCode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/siddarth-kadat/LeetCode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/0415-add-strings) |
 | [1486-xor-operation-in-an-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/siddarth-kadat/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/siddarth-kadat/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/siddarth-kadat/LeetCode/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/0415-add-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddarth-kadat/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/siddarth-kadat/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -87,6 +89,7 @@
 | [0020-valid-parentheses](https://github.com/siddarth-kadat/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/siddarth-kadat/LeetCode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/siddarth-kadat/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/siddarth-kadat/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/siddarth-kadat/LeetCode/tree/master/0709-to-lower-case) |

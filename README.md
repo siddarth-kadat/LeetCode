@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/siddarth-kadat/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/siddarth-kadat/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/siddarth-kadat/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/siddarth-kadat/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/siddarth-kadat/LeetCode/tree/master/0078-subsets) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/siddarth-kadat/LeetCode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/siddarth-kadat/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/siddarth-kadat/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/siddarth-kadat/LeetCode/tree/master/0392-is-subsequence) |

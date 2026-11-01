@@ -11,6 +11,7 @@
 | [0050-powx-n](https://github.com/siddarth-kadat/LeetCode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/siddarth-kadat/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/siddarth-kadat/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1486-xor-operation-in-an-array](https://github.com/siddarth-kadat/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/siddarth-kadat/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/siddarth-kadat/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -50,6 +51,7 @@
 | [0078-subsets](https://github.com/siddarth-kadat/LeetCode/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddarth-kadat/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/siddarth-kadat/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/siddarth-kadat/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/siddarth-kadat/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/siddarth-kadat/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/siddarth-kadat/LeetCode/tree/master/1512-number-of-good-pairs) |

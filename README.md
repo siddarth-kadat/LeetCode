@@ -24,6 +24,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/siddarth-kadat/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/siddarth-kadat/LeetCode/tree/master/3099-harshad-number) |
 | [3516-find-closest-person](https://github.com/siddarth-kadat/LeetCode/tree/master/3516-find-closest-person) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/siddarth-kadat/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/siddarth-kadat/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/siddarth-kadat/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/siddarth-kadat/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -72,6 +73,7 @@
 | [3668-restore-finishing-order](https://github.com/siddarth-kadat/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/siddarth-kadat/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/siddarth-kadat/LeetCode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/siddarth-kadat/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/siddarth-kadat/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3903-smallest-stable-index-i](https://github.com/siddarth-kadat/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Simulation

@@ -107,6 +107,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/siddarth-kadat/LeetCode/tree/master/1816-truncate-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddarth-kadat/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/siddarth-kadat/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/siddarth-kadat/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/siddarth-kadat/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -127,6 +128,7 @@
 | [0020-valid-parentheses](https://github.com/siddarth-kadat/LeetCode/tree/master/0020-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddarth-kadat/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/siddarth-kadat/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/siddarth-kadat/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Counting
 |  |
@@ -160,6 +162,7 @@
 | [0392-is-subsequence](https://github.com/siddarth-kadat/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/siddarth-kadat/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/siddarth-kadat/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2000-reverse-prefix-of-word](https://github.com/siddarth-kadat/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2396-strictly-palindromic-number](https://github.com/siddarth-kadat/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/siddarth-kadat/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/siddarth-kadat/LeetCode/tree/master/3794-reverse-string-prefix) |

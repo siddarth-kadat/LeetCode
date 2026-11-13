@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/siddarth-kadat/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/siddarth-kadat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/siddarth-kadat/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/siddarth-kadat/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -249,5 +250,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/siddarth-kadat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/siddarth-kadat/LeetCode/tree/master/0392-is-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/siddarth-kadat/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

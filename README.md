@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddarth-kadat/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/siddarth-kadat/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/siddarth-kadat/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/siddarth-kadat/LeetCode/tree/master/0392-is-subsequence) |
@@ -156,6 +157,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/siddarth-kadat/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/siddarth-kadat/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddarth-kadat/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -250,10 +252,15 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/siddarth-kadat/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/siddarth-kadat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/siddarth-kadat/LeetCode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/siddarth-kadat/LeetCode/tree/master/0070-climbing-stairs) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/siddarth-kadat/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

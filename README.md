@@ -76,6 +76,7 @@
 | [3731-find-missing-elements](https://github.com/siddarth-kadat/LeetCode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/siddarth-kadat/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/siddarth-kadat/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/siddarth-kadat/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/siddarth-kadat/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
@@ -198,6 +199,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/siddarth-kadat/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/siddarth-kadat/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/siddarth-kadat/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/siddarth-kadat/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -263,4 +265,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/siddarth-kadat/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/siddarth-kadat/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->

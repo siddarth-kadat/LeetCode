@@ -10,6 +10,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/siddarth-kadat/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/siddarth-kadat/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/siddarth-kadat/LeetCode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/siddarth-kadat/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/siddarth-kadat/LeetCode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/siddarth-kadat/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -51,6 +52,7 @@
 | [0054-spiral-matrix](https://github.com/siddarth-kadat/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/siddarth-kadat/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/siddarth-kadat/LeetCode/tree/master/0078-subsets) |
+| [0189-rotate-array](https://github.com/siddarth-kadat/LeetCode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/siddarth-kadat/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/siddarth-kadat/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/siddarth-kadat/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -162,6 +164,7 @@
 | [0015-3sum](https://github.com/siddarth-kadat/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddarth-kadat/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/siddarth-kadat/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/siddarth-kadat/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/siddarth-kadat/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/siddarth-kadat/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/siddarth-kadat/LeetCode/tree/master/0443-string-compression) |

@@ -50,6 +50,7 @@
 | [0015-3sum](https://github.com/siddarth-kadat/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddarth-kadat/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/siddarth-kadat/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/siddarth-kadat/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/siddarth-kadat/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/siddarth-kadat/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/siddarth-kadat/LeetCode/tree/master/0078-subsets) |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/siddarth-kadat/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/siddarth-kadat/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/siddarth-kadat/LeetCode/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/siddarth-kadat/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
